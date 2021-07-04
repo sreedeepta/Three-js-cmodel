@@ -1,0 +1,29 @@
+{
+  "name": "three-dolphin-geometry-loader",
+  "version": "1.0.2",
+  "description": "loads a sick three.js dolphin geometry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enspiral-cherubi/three-dolphin-geometry-loader.git"
+  },
+  "keywords": [
+    "dolphin",
+    "three",
+    "stl",
+    "geometry",
+    "three.js"
+  ],
+  "author": "data-doge <eugene@enspiral.com> (http://fuckafucka.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enspiral-cherubi/three-dolphin-geometry-loader/issues"
+  },
+  "homepage": "https://github.com/enspiral-cherubi/three-dolphin-geometry-loader#readme",
+  "dependencies": {
+    "three-stl-loader": "^1.0.4"
+  }
+}
